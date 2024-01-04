@@ -1,2 +1,2 @@
-La primera línea NOMBRE: [tu nombre]
-La segunda línea MATERIA: INF-122
+ALEXANDER HENRY CASTAÑOS TORREZ
+INF-122
